@@ -31,3 +31,20 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# Logs
+*.log
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Environment and configuration
+*.env
+application.properties
+application.yml
+application-*.properties
+application-*.yml
+
+# Gradle (if using it)
+.gradle/
